@@ -1,5 +1,8 @@
 # 雨课堂快速搜题.exe
 
+其他下载地址：
+|链接：https://pan.baidu.com/s/1FdJI24M24OrnWH_XU6HieQ?pwd=qie0 提取码：qie0
+
 <!--more-->
 
 工具名称：雨课堂快速搜题
