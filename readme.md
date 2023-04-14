@@ -1,7 +1,5 @@
 # 雨课堂快速搜题.exe
 
->其他下载地址：
->链接：https://pan.baidu.com/s/15PYSGeUL4x7owvvoslS5kg?pwd=qie0 提取码：qie0
 
 <!--more-->
 
