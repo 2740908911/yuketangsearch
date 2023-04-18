@@ -1,0 +1,39 @@
+# chaoxing_token: 
+# 超星题库token，此版本未开放
+
+bing_cookies: ./cookies.json
+# bing_cookies路径
+
+bing_proxy: http://127.0.0.1:7890
+# bing访问代理（VPN），国内必须设置，否则默认情况下无法方法
+
+bing_request_sleeptime: 5
+# 请求延迟，默认5s
+
+bing_request_thread: 3
+# 同时请求线程，默认3，推荐2-4，同时访问过高可能会导致封号等问题
+
+bing_request_timeout: 120
+# 请求超时时间，建议120s
+
+use_bing: True
+# 是否开启bing搜索
+
+bing_request_log: True
+# 是否记录每次bing查询记录
+
+max_binglog_num: 5
+# bingAI日志最大记录数量，默认5
+
+start_html: True
+# 是否结束后打开页面
+
+ykt_cookie: 
+# 雨课堂cookie
+
+test_id: 
+# 作业id
+
+
+
+
