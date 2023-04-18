@@ -10,6 +10,8 @@
 
 作者：Fanqie（**别忘了STAR！！！**）
 
+下载地址：https://github.com/2740908911/yuketangsearch/releases
+
 ---
 
 **下面是一份简单的使用说明：**
